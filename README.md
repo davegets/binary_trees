@@ -1,6 +1,6 @@
 # C - Binary trees
 
-This was a group project in which we learnt about the details, advantages,
+This was a group project however i did it alone i have learned about the details, advantages,
 and disadvantages of using trees as data structures. We learned about how to
 qualify trees as well as how to traverse them. Throughout the project, we
 implemented binary, binary search, AVL, and Max Binary Heap trees.
@@ -258,11 +258,10 @@ Function Prototypes
 
 ## Authors
 <details>
-    <summary>Suara Ayomide</summary>
+    <summary>Dawit Getachew</summary>
     <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/davegets">Github</a></li>
+    <li><a href="mailto:getachew.david@gmail.com">e-mail</a></li>
     </ul>
 </details>
 <details>
